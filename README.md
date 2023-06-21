@@ -8,7 +8,7 @@ WAMP Server or similar.
 The CreateDatabase.php script must be executed to create and initalise the myrentbuddy database with sample data. This file can be found in the "database" folder. 
 
 ## How to Use
-To use the website, the Login.php file should be executed which will display the login interface. 
+To use the website, start the WAMP server and execute the Login.php script which will display the login interface. 
 There are two existing users which can be used: an admin user and a renter user. 
 
 To login as the admin user, use the following details:
