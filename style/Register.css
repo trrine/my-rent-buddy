@@ -1,0 +1,101 @@
+body {
+	background-image: url("background.jpg");
+	background-size: 100%;
+	font-family: sans-serif;
+	color: black;
+	background-attachment: fixed;
+}
+
+h1 {
+	font-size: 70px;
+	font-style: italic;
+	text-align: center;
+	line-height: 10px;
+}
+
+h2 {
+	font-size: 30px;
+	font-weight: normal;
+}
+
+#register {
+	text-align: center;
+	width: max-content;
+	background: white;
+	color: black;
+	padding: 20px;
+	margin: 20px auto; /* center to page */
+	box-shadow: 0 4px 8px 0 rgba(10, 10, 10, 0.3); /* create shadow around login box */
+	border-radius: 6px; /* round edges */
+}
+
+label {
+	font-size: 16px;
+    display: block; /* put on separate lines */
+    margin-bottom: 4px; /* add space below */
+    text-align: left;
+}
+
+input {
+	font-size: 16px;
+	height: 36px;
+	width: 500px;
+	box-sizing: border-box; /* set all inputs same size */
+	border-radius: 4px; /* round edges */
+	border: 1.5px solid lightgray;
+	display: block; /* display each element on new line, full width */
+	outline: none;
+}
+
+input[type="text"]:focus, input[type="password"]:focus  {
+	border: 2px solid gray;
+}
+
+input[type="submit"] {
+	height: 60px;
+	background-color: #fca272;
+	color: white;
+  	font-weight: bold;
+  	border: none;
+  	cursor: pointer;
+}
+
+input[type="submit"]:hover {
+	background-color: #e88754;
+}
+
+input[type="radio"] {
+	width: 20px;
+	height: 20px;
+	display: inline;
+	vertical-align: bottom;
+
+}
+
+#errorPlaceholder {
+	font-size: 16px;
+	font-style: italic;
+	height: 20px;
+	padding: 10px;
+}
+
+.logout {
+	font-size: 30px;
+	text-align: center;
+	width: 150px;
+	height: 50px;
+	line-height: 50px;
+	color: white;
+	background-color: transparent;
+	border: 4px solid white;
+	text-decoration: none;	
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	box-shadow: 0 4px 8px 0 rgba(10, 10, 10, 0.3);
+}
+
+a.logout:hover, a.return:hover {
+	color: black;
+	background-color: white;
+}
