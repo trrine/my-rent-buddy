@@ -1,5 +1,6 @@
 # MyRentBuddy
  A dynamic website for managing car rentals using PHP and MySQLi. Developed for a subject on web server programming. 
+![image](https://github.com/trrine/my-rent-buddy/assets/41973043/4e0a2592-ba8c-4cfa-a0a3-18a510471418)
 
 ## Getting Started
 ### Requirements
