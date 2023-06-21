@@ -3,7 +3,7 @@
 
 ## Getting Started
 ### Requirements
-WAMP Server or similar is required to run the files of the website. 
+WAMP Server or similar.
 ### Prerequisites 
 The CreateDatabase.php script must be executed to create and initalise the myrentbuddy database with sample data. This file can be found in the "database" folder. 
 
