@@ -1,7 +1,8 @@
 # My Rent Buddy
  A dynamic website for managing car rentals using PHP and MySQLi. Developed for a subject on web server programming. 
  
-![image](https://github.com/trrine/my-rent-buddy/assets/41973043/4e0a2592-ba8c-4cfa-a0a3-18a510471418)
+![image](https://github.com/trrine/my-rent-buddy/assets/41973043/bdd41e09-88e0-4321-b202-7b4e71360def)
+
 
 ## Getting Started
 ### Requirements
@@ -24,4 +25,4 @@ To login as the renter user, use the following details:
 Alternatively, the Register.php script can also be accessed to create a new user. 
 Once the login or register form has been submitted successfully, the user will be redirected to the main interface where the relevant functionalities can be accessed.
 
-![image](https://github.com/trrine/my-rent-buddy/assets/41973043/c2d3e0ff-0478-43f2-a59a-d88515ed3973)
+![image](https://github.com/trrine/my-rent-buddy/assets/41973043/8e1afef0-d3c6-4d5e-a408-4590fbb7020d)
