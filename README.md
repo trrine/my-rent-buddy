@@ -24,4 +24,4 @@ To login as the renter user, use the following details:
 Alternatively, the Register.php script can also be accessed to create a new user. 
 Once the login or register form has been submitted successfully, the user will be redirected to the main interface where the relevant functionalities can be accessed.
 
-![image](https://github.com/trrine/my-rent-buddy/assets/41973043/99d79f34-3683-4646-aad7-0b0d9552ab95)
+![image](https://github.com/trrine/my-rent-buddy/assets/41973043/c2d3e0ff-0478-43f2-a59a-d88515ed3973)
